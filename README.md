@@ -1,7 +1,8 @@
 # Human Computer Interaction Prject 1
 This is a repo for Project 1 of CS 3366-002
-Project requirements:
 ===
+- Project requirements:
+
 
 **To get a C, you need to:**
 - [ ] Find an elevator in the apartment/hotel/airport. Only one example for each student.
