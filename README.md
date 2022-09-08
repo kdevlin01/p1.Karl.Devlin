@@ -6,9 +6,13 @@ Project requirements:
 
 
 **To get a C, you need to:**
-- [ ] Find an elevator in the apartment/hotel/airport. Only one example for each student.
-- [ ] Take photos of the control interface
-- [ ] Show a gif image of the control interface in operation.
+- [x] Find an elevator in the apartment/hotel/airport. Only one example for each student.
+- [x] Take photos of the control interface
+<img src=Panel.JPG title='ELEVATOR BUTTON PANEL' width=600>
+<img src=FDandPanel.JPG title='FRONT DOOR' width=600>
+<img src=RD.JPG title='REAR DOOR' width=600>
+- [x] Show a gif image of the control interface in operation.
+<img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
 - [ ] Find the issues with the current design.
 - [ ] Explain why it is good/bad.
 
