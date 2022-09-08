@@ -8,11 +8,7 @@ Project requirements:
 **To get a C, you need to:**
 - [x] Find an elevator in the apartment/hotel/airport. Only one example for each student.
 - [x] Take photos of the control interface
-<img src=Panel.JPG title='ELEVATOR BUTTON PANEL' width=600>
-<img src=FDandPanel.JPG title='FRONT DOOR' width=600>
-<img src=RD.JPG title='REAR DOOR' width=600>
 - [x] Show a gif image of the control interface in operation.
-<img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
 - [ ] Find the issues with the current design.
 - [ ] Explain why it is good/bad.
 
@@ -36,3 +32,13 @@ Project requirements:
 - [ ] Your design supports people with disabilities
 - [ ] You provide extra useful information on the display interface.
 - [ ] Your imagination ...
+===
+***Report***
+**ELEVATOR BUTTON PANEL**
+<img src=Panel.JPG title='ELEVATOR BUTTON PANEL' width=600>
+**FRONT DOOR**
+<img src=FDandPanel.JPG title='FRONT DOOR' width=600>
+**REAR DOOR**
+<img src=RD.JPG title='REAR DOOR' width=600>
+**GIF of Interface**
+<img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
