@@ -34,11 +34,14 @@ Project requirements:
 
 # Report
 
-**ELEVATOR BUTTON PANEL**
+- **ELEVATOR BUTTON PANEL**
 <img src=Panel.JPG title='ELEVATOR BUTTON PANEL' width=600>
-**FRONT DOOR**
+
+- **FRONT DOOR**
 <img src=FDandPanel.JPG title='FRONT DOOR' width=600>
-**REAR DOOR**
+
+- **REAR DOOR**
 <img src=RD.JPG title='REAR DOOR' width=600>
-**GIF of Interface**
+
+- **GIF of Interface**
 <img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
