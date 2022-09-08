@@ -4,7 +4,6 @@
 Project requirements:
 ===
 
-
 **To get a C, you need to:**
 - [x] Find an elevator in the apartment/hotel/airport. Only one example for each student.
 - [x] Take photos of the control interface
@@ -34,7 +33,6 @@ Project requirements:
 - [ ] Your imagination ...
 
 # Report
-===
 
 **ELEVATOR BUTTON PANEL**
 <img src=Panel.JPG title='ELEVATOR BUTTON PANEL' width=600>
