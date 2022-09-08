@@ -32,8 +32,10 @@ Project requirements:
 - [ ] Your design supports people with disabilities
 - [ ] You provide extra useful information on the display interface.
 - [ ] Your imagination ...
+
+# Report
 ===
-***Report***
+
 **ELEVATOR BUTTON PANEL**
 <img src=Panel.JPG title='ELEVATOR BUTTON PANEL' width=600>
 **FRONT DOOR**
