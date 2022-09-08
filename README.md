@@ -33,6 +33,7 @@ Project requirements:
 - [ ] Your imagination ...
 
 # Report
+## Part C
 
 - **ELEVATOR BUTTON PANEL**
 <img src=Panel.JPG title='ELEVATOR BUTTON PANEL' width=600>
@@ -45,3 +46,6 @@ Project requirements:
 
 - **GIF of Interface**
 <img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
+
+**Issues with current Design**
+- Labeling for "DOOR CLOSE
