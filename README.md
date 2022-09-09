@@ -97,3 +97,6 @@ Project requirements:
   * Make both rear and front doors operate simultaneously. 
     * For instance, both doors open/close at the same time, with the exception of the 3rd floor as it has no rear door option. 
   * Remove the redundant labeling as user's are lazy and will not read unless mandatory. The idea is to make the elevator use as inherently easy as possible.
+* Sketch of solution:
+<img src=p1.Karl.Devlin.png title='Sketch of Solution' width=600>
+
