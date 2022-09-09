@@ -12,13 +12,12 @@ Project requirements:
 - [x] Explain why it is good/bad.
 
 **To get a B, you need to:**
-- [ ] Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
-- [ ] Think about how the user interacts with the elevator. What is the common sequence of actions?
-- [ ] How does the elevator support the user to figure out how to make it work?
-- [ ] How does the elevator provide feedback to the user?
-- [ ] What are some common mistakes you can make with this current design?
-- [ ] Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
-- [ ] Here is an example of Low-Fidelity Prototype sketching out the design (for a different purpose).
+- [x] Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
+- [x] Think about how the user interacts with the elevator. What is the common sequence of actions?
+- [x] How does the elevator support the user to figure out how to make it work?
+- [x] How does the elevator provide feedback to the user?
+- [x] What are some common mistakes you can make with this current design?
+- [x] Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
 
 
 **To get a A, you need to:**
@@ -99,4 +98,8 @@ Project requirements:
   * Remove the redundant labeling as user's are lazy and will not read unless mandatory. The idea is to make the elevator use as inherently easy as possible.
 * Sketch of solution:
 <img src=p1.Karl.Devlin.png title='Sketch of Solution' width=600>
-
+  * I removed the "R" buttons to reduce confusion. 
+  * I put the labels above the button so the user reads them before viewing the button. This will remove any questions the user has about whatthey are pressing.
+  * I put the"CALL RECEIVED" label outisde of th e light so it can be viewed easier.
+  * I reduced the amount of labels on the phone and operator key hole to minimize confusion.
+  
