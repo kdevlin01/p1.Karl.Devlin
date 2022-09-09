@@ -9,7 +9,7 @@ Project requirements:
 - [x] Take photos of the control interface
 - [x] Show a gif image of the control interface in operation.
 - [x] Find the issues with the current design.
-- [ ] Explain why it is good/bad.
+- [x] Explain why it is good/bad.
 
 **To get a B, you need to:**
 - [ ] Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
@@ -58,3 +58,5 @@ Project requirements:
   * Good design. It is easy to identify buttons and none are missing.
 * Design is uniform and viually appealing.
   * Good design. The design is easy to look at and does not distract the user from properly using the elevator.
+
+## Part B
