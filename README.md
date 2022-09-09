@@ -61,15 +61,15 @@ Project requirements:
 
 ## Part B
 * Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
- * Common uses:
-  * Selecting Floors 
-  * Closing/Opening the door
-  * View the current floor
- * Rare uses:
-  * Ringing the alarm
-  * Calling for help
-  * Reading the labels in braille
- * This interface does make using the common features easier. However the rear door operations could be labeled better.
+  * Common uses:
+    * Selecting Floors 
+    * Closing/Opening the door
+    * View the current floor
+  * Rare uses:
+    * Ringing the alarm
+    * Calling for help
+    * Reading the labels in braille
+  * This interface does make using the common features easier. However the rear door operations could be labeled better.
 * Think about how the user interacts with the elevator. What is the common sequence of actions?
  1. The user calls the elevator to their floor
  2. The user walks in the elevator doors
@@ -83,17 +83,17 @@ Project requirements:
  10. The user exits the elevator
  11. The elevator doors close
 * How does the elevator support the user to figure out how to make it work?
- * The elevator panel buttons are large and easy to use. There is no need for written instruction as the use of elevators is universal knowledge in western society. A prerequisite for users operating elevators is general knowledge of how they work.
+  * The elevator panel buttons are large and easy to use. There is no need for written instruction as the use of elevators is universal knowledge in western society. A prerequisite for users operating elevators is general knowledge of how they work.
 * How does the elevator provide feedback to the user?
- * The buttons illuminate when pressed.
- * The digital display shows the current floor and changes as the elevator moves.
- * A tune notifies the user whenthe floors change and a different, longer tune notifies the user when the doors open and the elevator has arrived at a desired floor.
+  * The buttons illuminate when pressed.
+  * The digital display shows the current floor and changes as the elevator moves.
+  * A tune notifies the user whenthe floors change and a different, longer tune notifies the user when the doors open and the elevator has arrived at a desired floor.
 * What are some common mistakes you can make with this current design?
- * The user can confuse front door with rear door. 
- * The user can get lost on which floor they want as there are two different buttons for the same floor, one for rear and one for front door use.
- * The user can become confused on how to use the emergency call button as it has too many labels surrounding it.
+  * The user can confuse front door with rear door. 
+  * The user can get lost on which floor they want as there are two different buttons for the same floor, one for rear and one for front door use.
+  * The user can become confused on how to use the emergency call button as it has too many labels surrounding it.
 * Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
- * Remove the rear door buttons form the interface as they only confuse the user.
- * Make both rear and front doors operate simultaneously. 
-  * For instance, both doors open/close at the same time, with the exception of the 3rd floor as it has no rear door option. 
- * Remove the redundant labeling as user's are lazy and will not read unless mandatory. The idea is to make the elevator use as inherently easy as possible.
+  * Remove the rear door buttons form the interface as they only confuse the user.
+  * Make both rear and front doors operate simultaneously. 
+    * For instance, both doors open/close at the same time, with the exception of the 3rd floor as it has no rear door option. 
+  * Remove the redundant labeling as user's are lazy and will not read unless mandatory. The idea is to make the elevator use as inherently easy as possible.
