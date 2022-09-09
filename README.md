@@ -8,7 +8,7 @@ Project requirements:
 - [x] Find an elevator in the apartment/hotel/airport. Only one example for each student.
 - [x] Take photos of the control interface
 - [x] Show a gif image of the control interface in operation.
-- [ ] Find the issues with the current design.
+- [x] Find the issues with the current design.
 - [ ] Explain why it is good/bad.
 
 **To get a B, you need to:**
@@ -48,4 +48,13 @@ Project requirements:
 <img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
 
 **Issues with current Design**
-- Labeling for "DOOR CLOSE
+* Labeling is hard to read.
+  * Bad Design. The font is inconsistent and hard to read from any convenient distance.   
+* Emergency phone button label is confusing.
+  * Bad design. "HELP", "PHONE", "PUSH TO CALL" are all reffering to the same button, the redundancy of these labels is confusing, and would impede the users cognitive abilities in time of crisis.
+* It is hard to differentiate betweeen rear and front buttons.
+  * Bad design. A more understandable design than a simple "#R" label would be better. For instance: a color-code system or tabular design.
+* Buttons are organized well and are all accounted for.
+  * Good design. It is easy to identify buttons and none are missing.
+* Design is uniform and viually appealing.
+  * Good design. The design is easy to look at and does not distract the user from properly using the elevator.
