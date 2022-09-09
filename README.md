@@ -99,7 +99,7 @@ Project requirements:
 * Sketch Justification:
   * I removed the "R" buttons to reduce confusion. 
   * I put the labels above the button so the user reads them before viewing the button. This will remove any questions the user has about whatthey are pressing.
-  * I put the"CALL RECEIVED" label outisde of th e light so it can be viewed easier.
+  * I put the "CALL RECEIVED" label outisde of the light so it can be viewed easier.
   * I reduced the amount of labels on the phone and operator key hole to minimize confusion. 
 * Sketch of solution:
 <img src=p1.Karl.Devlin.png title='Sketch of Solution' width=600>
