@@ -96,10 +96,12 @@ Project requirements:
   * Make both rear and front doors operate simultaneously. 
     * For instance, both doors open/close at the same time, with the exception of the 3rd floor as it has no rear door option. 
   * Remove the redundant labeling as user's are lazy and will not read unless mandatory. The idea is to make the elevator use as inherently easy as possible.
-* Sketch of solution:
-<img src=p1.Karl.Devlin.png title='Sketch of Solution' width=600>
+* Sketch Justification:
   * I removed the "R" buttons to reduce confusion. 
   * I put the labels above the button so the user reads them before viewing the button. This will remove any questions the user has about whatthey are pressing.
   * I put the"CALL RECEIVED" label outisde of th e light so it can be viewed easier.
-  * I reduced the amount of labels on the phone and operator key hole to minimize confusion.
+  * I reduced the amount of labels on the phone and operator key hole to minimize confusion. 
+* Sketch of solution:
+<img src=p1.Karl.Devlin.png title='Sketch of Solution' width=600>
+
   
