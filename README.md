@@ -60,3 +60,30 @@ Project requirements:
   * Good design. The design is easy to look at and does not distract the user from properly using the elevator.
 
 ## Part B
+* Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
+  * Common uses:
+    * Selecting Floors 
+    * Closing/Opening the door
+    * View the current floor
+  * Rare uses:
+    * Ringing the alarm
+    * Calling for help
+    * Reading the labels in braille
+  * This interface does make using the common features easier. However the rear door operations could be labeled better.
+* Think about how the user interacts with the elevator. What is the common sequence of actions?
+  1. The user calls the elevator to their floor
+  2. The user walks in the elevator doors
+  3. The user turns to face the control panel
+  4. The user selects desired floor and floor button illuminates
+  5. *optional* The user holds open doors for companion or closes the doors as they are impatient
+  6. The elevator doors close
+  7. The elevator moves to the desired floor and floor button deluminates
+  8. The elevator arrives at the desired floor
+  9. The elevator doors open
+  10. The user exits the elevator
+  11. The elevator doors close
+* How does the elevator support the user to figure out how to make it work?
+* How does the elevator provide feedback to the user?
+* What are some common mistakes you can make with this current design?
+* Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
+* Here is an example of Low-Fidelity Prototype sketching out the design (for a different purpose).
