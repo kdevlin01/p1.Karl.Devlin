@@ -83,7 +83,17 @@ Project requirements:
   10. The user exits the elevator
   11. The elevator doors close
 * How does the elevator support the user to figure out how to make it work?
+  * The elevator panel buttons are large and easy to use. There is no need for written instruction as the use of elevators is universal knowledge in western society. A prerequisite for users operating elevators is general knowledge of how they work.
 * How does the elevator provide feedback to the user?
+  * The buttons illuminate when pressed.
+  * The digital display shows the current floor and changes as the elevator moves.
+  * A tune notifies the user whenthe floors change and a different, longer tune notifies the user when the doors open and the elevator has arrived at a desired floor.
 * What are some common mistakes you can make with this current design?
+  * The user can confuse front door with rear door. 
+  * The user can get lost on which floor they want as there are two different buttons for the same floor, one for rear and one for front door use.
+  * The user can become confused on how to use the emergency call button as it has too many labels surrounding it.
 * Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
-* Here is an example of Low-Fidelity Prototype sketching out the design (for a different purpose).
+  * Remove the rear door buttons form the interface as they only confuse the user.
+  * Make both rear and front doors operate simultaneously. 
+    * For instance, both doors open/close at the same time, with the exception of the 3rd floor as it has no rear door option. 
+  * Remove the redundant labeling as user's are lazy and will not read unless mandatory. The idea is to make the elevator use as inherently easy as possible.
