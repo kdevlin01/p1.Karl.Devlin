@@ -102,6 +102,6 @@ Project requirements:
   * I put the "CALL RECEIVED" label outisde of the light so it can be viewed easier.
   * I reduced the amount of labels on the phone and operator key hole to minimize confusion. 
 * Sketch of solution:
-<img src=p.Karl.Devlin.png title='Sketch of Solution' width=600>
+<img src=p1.Karl.Devlin.png title='Sketch of Solution' width=600>
 
   
