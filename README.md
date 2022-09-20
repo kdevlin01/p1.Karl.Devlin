@@ -105,9 +105,10 @@ Project requirements:
 <img src=p1.Karl.Devlin.png title='Sketch of Solution' width=600>
 
 ## Part A
-* GIF of Final Interface
-<img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
+
 * Come with your design for the touch screen? What is the screen size that you want?
   * I would like this interface to be 12x18"
+* GIF of Final Interface
+<img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='600' alt='Video Walkthrough' />
 
   
