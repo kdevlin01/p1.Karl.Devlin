@@ -21,15 +21,15 @@ Project requirements:
 
 
 **To get a A, you need to:**
-- [ ] Come with your design for the touch screen? What is the screen size that you want?
-- [ ] Design and implement interactive features
-- [ ] Design and implement user feedback
-- [ ] You use Processing for this project.
+- [x] Come with your design for the touch screen? What is the screen size that you want?
+- [x] Design and implement interactive features
+- [x] Design and implement user feedback
+- [x] You use Processing for this project.
 
 **You can get extra credits if:**
-- [ ] Your design supports people with disabilities
-- [ ] You provide extra useful information on the display interface.
-- [ ] Your imagination ...
+- [x] Your design supports people with disabilities
+- [x] You provide extra useful information on the display interface.
+- [x] Your imagination ...
 
 # Report
 ## Part C
@@ -44,7 +44,7 @@ Project requirements:
 <img src=RD.JPG title='REAR DOOR' width=600>
 
 - **GIF of Interface**
-<img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
+<img src='p.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
 
 **Issues with current Design**
 * Labeling is hard to read.
@@ -103,5 +103,11 @@ Project requirements:
   * I reduced the amount of labels on the phone and operator key hole to minimize confusion. 
 * Sketch of solution:
 <img src=p1.Karl.Devlin.png title='Sketch of Solution' width=600>
+
+## Part A
+* GIF of Final Interface
+<img src='p1.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
+* Come with your design for the touch screen? What is the screen size that you want?
+  * I would like this interface to be 12x18"
 
   
