@@ -2,16 +2,16 @@
 ## Part C
 
 - **ELEVATOR BUTTON PANEL**
-<img src=Panel.JPG title='ELEVATOR BUTTON PANEL' width=600>
+<img src=Panel.JPG title='ELEVATOR BUTTON PANEL' width=300>
 
 - **FRONT DOOR**
-<img src=FDandPanel.JPG title='FRONT DOOR' width=600>
+<img src=FDandPanel.JPG title='FRONT DOOR' width=300>
 
 - **REAR DOOR**
-<img src=RD.JPG title='REAR DOOR' width=600>
+<img src=RD.JPG title='REAR DOOR' width=300>
 
 - **GIF of Interface**
-<img src='p.Karl.Devlin.gif' title='GIF Walkthrough' width='' alt='Video Walkthrough' />
+<img src='p.Karl.Devlin.gif' title='GIF Walkthrough' width='300' alt='Video Walkthrough' />
 
 **Issues with current Design**
 * Labeling is hard to read.
@@ -69,7 +69,7 @@
   * I put the "CALL RECEIVED" label outisde of the light so it can be viewed easier.
   * I reduced the amount of labels on the phone and operator key hole to minimize confusion. 
 * Sketch of solution:
-<img src=p1.Karl.Devlin.png title='Sketch of Solution' width=600>
+<img src=p1.Karl.Devlin.png title='Sketch of Solution' width=300>
 
 ## Part A
 
