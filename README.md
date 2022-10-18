@@ -1,36 +1,6 @@
 # Human Computer Interaction Prject 1
 - This is a repo for Project 1 of CS 3366-002
 
-Project requirements:
-===
-
-**To get a C, you need to:**
-- [x] Find an elevator in the apartment/hotel/airport. Only one example for each student.
-- [x] Take photos of the control interface
-- [x] Show a gif image of the control interface in operation.
-- [x] Find the issues with the current design.
-- [x] Explain why it is good/bad.
-
-**To get a B, you need to:**
-- [x] Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
-- [x] Think about how the user interacts with the elevator. What is the common sequence of actions?
-- [x] How does the elevator support the user to figure out how to make it work?
-- [x] How does the elevator provide feedback to the user?
-- [x] What are some common mistakes you can make with this current design?
-- [x] Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
-
-
-**To get a A, you need to:**
-- [x] Come with your design for the touch screen? What is the screen size that you want?
-- [x] Design and implement interactive features
-- [x] Design and implement user feedback
-- [x] You use Processing for this project.
-
-**You can get extra credits if:**
-- [x] Your design supports people with disabilities
-- [x] You provide extra useful information on the display interface.
-- [x] Your imagination ...
-
 # Report
 ## Part C
 
